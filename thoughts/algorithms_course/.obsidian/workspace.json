@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "49af316134331b9b",
+        "id": "f6c6ef6cb4f93631",
         "type": "tabs",
         "children": [
           {
-            "id": "b667a8da3b02f997",
+            "id": "f2d5d6175a47ab6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Search/3. Pseudo Code Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. Pseudo Code Binary Search"
             }
           }
         ]
@@ -162,12 +166,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b667a8da3b02f997",
+  "active": "be4504f0a7b035d9",
   "lastOpenFiles": [
-    "Basics/Arrays Data Structure.md",
+    "Search/2. Binary Search Algorithm.md",
+    "Search/1. Linear Search & Kata Setup.md",
+    "Search/3. Pseudo Code Binary Search.md",
     "Basics/1. Big O Time Complexity.md",
+    "New Text Document.txt",
+    "Search/Untitled",
+    "Search",
+    "Untitled 1.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Basics/Arrays Data Structure.md",
     "Basics",
-    "Untitled",
     "Arrays Data Structure.md",
     "Welcome.md"
   ]
